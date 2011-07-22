@@ -11,6 +11,27 @@ Overview
 ----
 
 * Me, Nitobi
+* HTML5 is good
+  * what do we get
+* HTML5 promises to get better
+  * Android (Google i/o 2010 announcement [where is that btw?])
+  * iOS 4.2 / 5 improvements
+* HTML5 not good enough
+  * what's missing
+* PhoneGap to the rescue
+  * adds missing features, one giant polyfill
+  * open source, contributors, other marketing-type info
+  * example apps
+  * api examples
+  * a typical application (structure, code)
+* Cross-platform PhoneGap
+  * examples of platform differences
+  * examples of how PhoneGap solves them
+* PhoneGap is a hybrid app
+  * we love the web, so we do as much as we can in there. good for web devs
+  * not limited to just web: plugins
+  * sample
+
 
 Dependencies
 ----

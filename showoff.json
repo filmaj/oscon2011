@@ -1,5 +1,6 @@
 { "name": "HTML5 and Mobile: Getting from Good Enough to Great", "sections":
   [
-    {"section":"intro"}
+    {"section":"intro"},
+    {"section":"phonegap"}
   ]
 }
