@@ -25,13 +25,17 @@ Overview
   * api examples
   * a typical application (structure, code)
 * Cross-platform PhoneGap
-  * examples of platform differences
-  * examples of how PhoneGap solves them
+  * examples of platform differences, and how PhoneGap solves them
+    * lifecycle events
+    * key events
+      * mention native menu plugin
+    * permission/security models
 * PhoneGap is a hybrid app
   * we love the web, so we do as much as we can in there. good for web devs
   * not limited to just web: plugins
   * sample
-
+* PhoneGap Build
+  * intro shpiel
 
 Dependencies
 ----
